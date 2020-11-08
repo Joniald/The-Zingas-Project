@@ -1,0 +1,73 @@
+#ii {
+  float: right;
+  padding: 60px 10px 10px 15px;
+  font-size: 20px;
+}
+#ii:hover {
+  color:rgba(0,0,0,0.5);
+}
+a {
+  float: left;
+  padding: 60px 10px 10px 15px;
+  font-size: 18px;
+}
+a:link {
+  color: rgba(0,0,0,0.5);
+  background-color: transparent;
+  text-decoration: none;
+  letter-spacing: 0.2em;
+}
+a:visited {
+  color: rgba(0,0,0,0.5);
+  background-color: transparent;
+  text-decoration: none;
+  letter-spacing: 0.2em;
+
+}
+a:hover {
+  color:rgba(0,0,0,1);
+  background-color: transparent;
+  text-decoration: underline;
+  letter-spacing: 0.2em;
+}
+a:active {
+  color: rgba(0,0,10,0.5);
+  background-color: transparent;
+  text-decoration: underline;
+  letter-spacing: 0.2em;
+}
+p::first-letter {
+    font-size:3vw;
+    color:rgba(255,0,0,0.5);
+}
+#pp {
+  text-align: center;
+  padding: 70px 70px;
+  font-family: "Dancing Script";
+  font-family: "Indie Flower";
+  font-size:2vw;
+  color:rgba(0,0,0,0.5);
+}
+footer {
+  text-align: center;
+  padding: 70px 70px;
+  font-family: "Indie Flower";
+  font-size:2vw;
+  color:rgba(255,255,255,0.5);
+  background-color:rgba(0,0,0,0.5);
+}
+#imgl {
+  transition: 1s;
+}
+#imgl:hover{
+  transform: scale(1.02);
+}
+
+#phone {
+  color:rgba(255,255,255,1);
+  font-size:3vw;
+  float:left;
+}
+#phone:hover {
+  color:rgba(255,255,255,0.5);
+}
