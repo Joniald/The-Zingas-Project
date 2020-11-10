@@ -37,7 +37,7 @@
 <div class="row">
  <div class="col-lg-4" >
   <ul class="nav justify-content-center">
-    <li class="nav-item"><a href="ZingasFirstPage.html">JEWELLERY</a></li>
+    <li class="nav-item"><a href="index.md">JEWELLERY</a></li>
     <li class="nav-item"><a href="ZingasSecondPage.html">COLLECTIONS</a></li>
     <li class="nav-item"><a href="ZingasThirdPage.html">OUR STORY</a></li>
   </ul>
